@@ -1,0 +1,17 @@
+* {
+    transition: 1s ease-in-out;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: flex;
+    height: 40rem;
+    margin: auto;
+}
+
+.bulbContainer {
+    margin-top: 2rem;
+}
